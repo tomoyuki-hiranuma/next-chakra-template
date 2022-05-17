@@ -1,12 +1,7 @@
-import type { NextPage } from 'next'
-import { UploadImages } from '../components/UploadImages'
+import type { NextPage } from 'next';
 
 const Home: NextPage = () => {
-  return (
-    <>
-     <UploadImages />
-    </>
-  )
-}
+  return <>Home</>;
+};
 
-export default Home
+export default Home;
