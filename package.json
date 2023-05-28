@@ -1,5 +1,5 @@
 {
-  "name": "drag-and-drop",
+  "name": "next-chakra-template",
   "private": true,
   "scripts": {
     "dev": "next dev",
