@@ -1,6 +1,6 @@
 {
   "extends": ["next", "next/core-web-vitals", "prettier", "plugin:storybook/recommended"],
-  "plugins": ["@typescript-eslint"],
+  "plugins": ["prefer-arrow", "@typescript-eslint"],
   "ignorePatterns": ["next.config.js"],
   "rules": {
     "@typescript-eslint/consistent-type-imports": "error"
