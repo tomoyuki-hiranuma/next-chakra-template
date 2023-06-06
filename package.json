@@ -22,6 +22,8 @@
   },
   "devDependencies": {
     "@chakra-ui/storybook-addon": "^4.0.16",
+    "@changesets/changelog-github": "^0.4.8",
+    "@changesets/cli": "^2.26.1",
     "@storybook/addon-essentials": "^7.0.18",
     "@storybook/addon-interactions": "^7.0.18",
     "@storybook/addon-links": "^7.0.18",
