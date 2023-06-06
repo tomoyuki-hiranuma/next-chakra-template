@@ -1,5 +1,11 @@
 # next-chakra-template
 
+## 0.1.1
+
+### Patch Changes
+
+- [#6](https://github.com/tomoyuki-hiranuma/next-chakra-template/pull/6) [`30949ed`](https://github.com/tomoyuki-hiranuma/next-chakra-template/commit/30949ed5a7d5bb577554d61efb926997d8a421cb) Thanks [@tomoyuki-hiranuma](https://github.com/tomoyuki-hiranuma)! - ci-test
+
 ## null
 
 ### Patch Changes
